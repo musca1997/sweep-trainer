@@ -2,6 +2,10 @@
   <img src="assets/icon/app-icon.png" alt="Sweep Trainer app icon" width="128" height="128">
 </p>
 
+<p align="center">
+  <img src="docs/images/sweep-trainer-artwork.webp" alt="Sweep Trainer artwork" width="480">
+</p>
+
 # Sweep Trainer
 
 A landscape-first Flutter app for guitar sweep-picking and strict three-notes-per-string (3NPS) practice.
