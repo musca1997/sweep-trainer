@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/icon/app-icon.png" alt="Sweep Trainer app icon" width="128" height="128">
+</p>
+
 # Sweep Trainer
 
 A landscape-first Flutter app for guitar sweep-picking and strict three-notes-per-string (3NPS) practice.
@@ -6,7 +10,15 @@ Choose a root, chord quality and fretboard position—or press **ROLL** for a pl
 
 ## Screenshots
 
-Real screenshots of the Android Release APK running in an Android emulator. Layout adapts to the available logical screen width.
+Real screenshots of the Android Release APK running in an Android phone emulator (not a physical device). The launcher image shows the installed app icon; the in-app layout adapts to the available logical screen width.
+
+### Android home screen
+
+<p align="center">
+  <img src="docs/screenshots/android-home.png" alt="Sweep Trainer installed on the Android home screen with its custom launcher icon" width="300">
+</p>
+
+The launcher icon includes Android adaptive-icon resources with padding for system masks. The displayed app name is **Sweep Trainer**.
 
 ### Wide landscape layout
 
