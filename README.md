@@ -8,6 +8,12 @@ A landscape-first Flutter app for guitar sweep-picking and strict three-notes-pe
 
 Choose a root, chord quality and fretboard position—or press **ROLL** for a playable random combination—then press **START** to practice with generated plucked-note audio and a metronome.
 
+## Download
+
+[Download Sweep Trainer v1.0.0 for Android](https://github.com/musca1997/sweep-trainer/releases/download/v1.0.0/Sweep-Trainer-1.0.0-android.apk)
+
+The universal APK supports ARM64, ARMv7 and x86-64. See the [release notes](https://github.com/musca1997/sweep-trainer/releases/tag/v1.0.0) for signing details and known limitations.
+
 ## Screenshots
 
 Real screenshots of the Android Release APK running in an Android phone emulator (not a physical device). The launcher image shows the installed app icon; the in-app layout adapts to the available logical screen width.
